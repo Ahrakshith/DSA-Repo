@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ahrakshith/DSA-Repo/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Ahrakshith/DSA-Repo/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahrakshith/DSA-Repo/tree/master/0009-palindrome-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Ahrakshith/DSA-Repo/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Ahrakshith/DSA-Repo/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
