@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Ahrakshith/DSA-Repo/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Ahrakshith/DSA-Repo/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Ahrakshith/DSA-Repo/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,8 +31,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ahrakshith/DSA-Repo/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Ahrakshith/DSA-Repo/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ahrakshith/DSA-Repo/tree/master/0054-spiral-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ahrakshith/DSA-Repo/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ahrakshith/DSA-Repo/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ahrakshith/DSA-Repo/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
