@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ahrakshith/DSA-Repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Ahrakshith/DSA-Repo/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ahrakshith/DSA-Repo/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahrakshith/DSA-Repo/tree/master/0009-palindrome-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Ahrakshith/DSA-Repo/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Matrix
 |  |
 | ------- |
